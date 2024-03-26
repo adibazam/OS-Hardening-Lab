@@ -12,7 +12,7 @@ In this project, I investigated a cybersecurity incident at YummyRecipesForMe.co
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-tcmpdump log: <br/>
+tcpdump log: <br/>
 <img src="https://i.gyazo.com/9a08744f8bbd4564bb54e8bf39eb5a89.png" height="80%" width="80%" alt="tcpdump"/>
 <img src="https://i.gyazo.com/0e1c1abe7d7ba0bf9547a57dfea48cdb.png" height="80%" width="80%" alt="tcpdump"/>
 <br />
